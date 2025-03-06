@@ -13,10 +13,10 @@ tags:
 
 ## Definitions
 - **Personal Savings**:  
-  $$ \text{Savings} = \text{Current Income} - \text{Current Consumption} $$
+  $\text{Savings} = \text{Current Income} - \text{Current Consumption}$
   - **Flow variable** (measured over a period, e.g., per week).
 - **Personal Wealth**:  
-  $$ \text{Wealth} = \text{Assets} - \text{Liabilities} $$
+  $\text{Wealth} = \text{Assets} - \text{Liabilities}$
   - **Stock variable** (accumulates over time).
 - **Analogy**:  
   - **Deficit** (flow) vs. **Debt** (stock) at the national level.
@@ -53,13 +53,13 @@ tags:
 
 ## Lifetime Budget Constraint
 1. **Period 1 budget constraint:**  
-   $$ b = y_1 - c_1 $$
+   $b = y_1 - c_1$
 2. **Period 2 budget constraint:**  
-   $$ c_2 = y_2 + (1+r) b $$
+   $c_2 = y_2 + (1+r) b$
 3. **Substituting $b$:**  
-   $$ c_2 = y_2 + (1+r)(y_1 - c_1) $$
+   $c_2 = y_2 + (1+r)(y_1 - c_1)$
 4. **Rearrange for the lifetime budget constraint:**  
-   $$ c_1 + \frac{c_2}{1+r} = y_1 + \frac{y_2}{1+r} $$
+   $c_1 + \frac{c_2}{1+r} = y_1 + \frac{y_2}{1+r}$
    - **Left-hand side:** Present value of **uses**.  
    - **Right-hand side:** Present value of **resources**.  
    - This helps determine how much to **save now** to fund future consumption.

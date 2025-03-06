@@ -32,7 +32,7 @@ index: 3
 
 ### Hiring Rule
 - Hire workers **until**:  
-  $$ MRP_L = MC_L $$
+  $MRP_L = MC_L$
 - If $MRP_L > MC_L$, hire more workers.  
 - If $MRP_L < MC_L$, stop hiring.
 
@@ -124,7 +124,7 @@ index: 3
 - **For unemployment rate to remain stable**:  
   - **Job losses = Job gains**  
   - Mathematically:  
-    $$ s(1 - U) = U \cdot P \cdot H(W^*) $$  
+    $s(1 - U) = U \cdot P \cdot H(W^*)$  
   - **Variables:**  
     - $s$: Separation rate (job loss rate).  
     - **$U$**: Unemployed population.  
@@ -133,7 +133,7 @@ index: 3
 
 ## Equilibrium Unemployment Rate  
 - Solving for $U$:  
-  $$ U^* = \frac{S}{S + P H(W^*)} $$  
+  $U^* = \frac{S}{S + P H(W^*)}$  
 - **Higher separation rate ($S$) → Higher unemployment**.  
 - **Higher job offers & acceptance rate ($P H(W^*)$) → Lower unemployment**.  
 

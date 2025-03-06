@@ -196,9 +196,7 @@ A primary cause of inflation, especially hyperinflation, is excessive money prin
 - **CPI Definition**: The Consumer Price Index (CPI) measures the average cost of a fixed, weighted basket of goods and services over time.
   
 - **Formula for CPI**:
-  $$
-  \text{CPI} = \left( \frac{\text{Price of Basket in Current Period}}{\text{Price of Basket in Base Period}} \right) \times 100
-  $$
+  $\text{CPI} = \left( \frac{\text{Price of Basket in Current Period}}{\text{Price of Basket in Base Period}} \right) \times 100$
 
 - **Steps in CPI Calculation**:
   1. **Fixed Weighted Basket**: A basket is chosen based on typical goods and services people purchase. This basket is weighted by expenditure categories such as housing, transportation, food, medical care, etc.
@@ -249,9 +247,7 @@ A primary cause of inflation, especially hyperinflation, is excessive money prin
 ## Unemployment Rate
 The **unemployment rate** is used to capture the percentage of people who **want to find work but cannot find work**. It is calculated as:
 
-$$
-Unemployment Rate = \dfrac{Unemployed}{Labor Force} \times 100
-$$
+$Unemployment Rate = \dfrac{Unemployed}{Labor Force} \times 100$
 
 - **Labor Force**: The total number of people who are employed or unemployed but actively seeking work.
 - **Employed**: Those who worked full or part time during the past week, or were on vacation or sick from their regular job.
@@ -342,9 +338,7 @@ Unemployment can be classified into different types, each with varying degrees o
    - **Natural Rate of Unemployment**: This rate is the baseline level of unemployment that accounts for **frictional** and **structural** unemployment (sometimes referred to as the "natural rate of unemployment"). It reflects the level of unemployment that exists even when the economy is at full employment.
 
  **Cyclical Unemployment Formula**: 
-$$
-       \text{Cyclical Unemployment} = \text{Actual Unemployment Rate} - \text{Natural Rate of Unemployment}
-$$
+$\text{Cyclical Unemployment} = \text{Actual Unemployment Rate} - \text{Natural Rate of Unemployment}$
 
 **Policy Implications**: To address cyclical unemployment, governments often implement **counter-cyclical fiscal policies** (such as stimulus spending) and **monetary policies** (like interest rate adjustments) to boost economic activity during downturns.
 
@@ -373,15 +367,11 @@ The participation rate will capture if the unemployment rate goes down for a bad
 ## How We Calculate Unemployment Rate and Participation Rate
 
 - **Unemployment Rate**:
-  $$
-  \text{Unemployment Rate} = \frac{\text{Unemployed}}{\text{Labor Force}} \times 100
-  $$
+  $\text{Unemployment Rate} = \frac{\text{Unemployed}}{\text{Labor Force}} \times 100$
   The **labor force** includes both the unemployed and employed. The unemployed are those who cannot find a job, and the employed are those who have found one.
 
 - **Participation Rate**:
-  $$
-  \text{Participation Rate} = \frac{\text{Labor Force}}{\text{Working Age Population}} \times 100
-  $$
+  $\text{Participation Rate} = \frac{\text{Labor Force}}{\text{Working Age Population}} \times 100$
 
 Again, if the unemployment rate comes down for a bad reason, the participation rate will tell us, it will come down. If unemployment rates go up for a good reason, the participation rate can help us understand that. The participation rate will go up.
 
