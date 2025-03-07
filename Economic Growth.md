@@ -1,3 +1,9 @@
+---
+tags:
+  - "#notes"
+  - "#economics"
+index: 2
+---
 # Introduction
 ## Purpose of Economic Growth
 - **Raising Standards of Living**: Economic growth aims to improve people's well-being by providing access to tools, equipment, education, and healthcare.
