@@ -9,4 +9,5 @@
 - [Module 6: Savings and Investments](</Savings and Investments.md>)
 - [Module 7: Money and Monetary Policy](</Money and Monetary Policy.md>)
 - [Module 8: Aggregate Supply and Demand](</Aggregate Supply and Demand.md>)
+- [Module 9: Fiscal Policy](</Fiscal Policy.md>)
 
